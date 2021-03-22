@@ -1,0 +1,8 @@
+Project to learn :
+  Iteration
+  Object Oriented Programming
+  Math Solution
+  Bubble Sort
+  Recursion
+  etc.
+ 
